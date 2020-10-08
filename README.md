@@ -20,13 +20,89 @@ The series requirements and content is shown in detail by the section for each l
 * Lab 8: Design of CPU Control Units
 * Lab 9: Final Project Assembly
 
-## Labs Series
+## Lab 1: Introduction to Structural and Behavioral Styles
 
-#### Lab 1: Introduction to Structural and Behavioral Styles
+##### Requirements: 
 
-Requirements: 
+##### Built with:
 
-Built with:
+* VHDL Hardware Description Language
+* Cyclone II FPGA  (Terasic DE1 Developing Board)
+
+##### Schematic:
+
+##### Flowchart:
+
+## Lab 2: Design of an Adder-Subtractor Component
+
+##### Requirements:
+
+##### Built with:
+
+* VHDL Hardware Description Language
+* Cyclone II FPGA  (Terasic DE1 Developing Board)
+
+##### Schematic:
+
+##### Flowchart:
+
+## Lab 3: Introduction to FSM-based Components
+
+##### Requirements:
+
+##### Built with:
+
+* VHDL Hardware Description Language
+* Cyclone II FPGA  (Terasic DE1 Developing Board)
+
+##### Schematic:
+
+##### Flowchart:
+
+## Lab 4: Design of a Washing Machine Controller
+
+##### Requirements:
+
+##### Built with:
+
+* VHDL Hardware Description Language
+* Cyclone II FPGA  (Terasic DE1 Developing Board)
+
+##### Schematic:
+
+##### Flowchart:
+
+## Lab 5: Design of Multiplexers and Registers
+
+##### Requirements:
+
+##### Built with:
+
+* VHDL Hardware Description Language
+* Cyclone II FPGA  (Terasic DE1 Developing Board)
+
+##### Schematic:
+
+##### Flowchart:
+
+## Lab 6: Design of CPU Arithmetic Logic Units
+
+##### Requirements:
+
+##### Built with:
+
+* VHDL Hardware Description Language
+* Cyclone II FPGA  (Terasic DE1 Developing Board)
+
+##### Schematic:
+
+##### Flowchart:
+
+## Lab 7: Design of CPU Datapaths
+
+##### Requirements:
+
+##### Built with:
 
 * VHDL Hardware Description Language
 * Cyclone II FPGA  (Terasic DE1 Developing Board)
@@ -35,106 +111,28 @@ Schematic:
 
 Flowchart:
 
-#### Lab 2: Design of an Adder-Subtractor Component
+## Lab 8: Design of CPU Control Units
 
-Requirements:
+##### Requirements:
 
-Built with:
-
-* VHDL Hardware Description Language
-* Cyclone II FPGA  (Terasic DE1 Developing Board)
-
-Schematic:
-
-Flowchart:
-
-#### Lab 3: Introduction to FSM-based Components
-
-Requirements:
-
-Built with:
+##### Built with:
 
 * VHDL Hardware Description Language
 * Cyclone II FPGA  (Terasic DE1 Developing Board)
 
-Schematic:
+##### Schematic:
 
-Flowchart:
+##### Flowchart:
 
-#### Lab 4: Design of a Washing Machine Controller
+## Lab 9: Final Project Assembly
 
-Requirements:
+##### Requirements:
 
-Built with:
-
-* VHDL Hardware Description Language
-* Cyclone II FPGA  (Terasic DE1 Developing Board)
-
-Schematic:
-
-Flowchart:
-
-#### Lab 5: Design of Multiplexers and Registers
-
-Requirements:
-
-Built with:
+##### Built with:
 
 * VHDL Hardware Description Language
 * Cyclone II FPGA  (Terasic DE1 Developing Board)
 
-Schematic:
+##### Schematic:
 
-Flowchart:
-
-#### Lab 6: Design of CPU Arithmetic Logic Units
-
-Requirements:
-
-Built with:
-
-* VHDL Hardware Description Language
-* Cyclone II FPGA  (Terasic DE1 Developing Board)
-
-Schematic:
-
-Flowchart:
-
-#### Lab 7: Design of CPU Datapaths
-
-Requirements:
-
-Built with:
-
-* VHDL Hardware Description Language
-* Cyclone II FPGA  (Terasic DE1 Developing Board)
-
-Schematic:
-
-Flowchart:
-
-#### Lab 8: Design of CPU Control Units
-
-Requirements:
-
-Built with:
-
-* VHDL Hardware Description Language
-* Cyclone II FPGA  (Terasic DE1 Developing Board)
-
-Schematic:
-
-Flowchart:
-
-#### Lab 9: Final Project Assembly
-
-Requirements:
-
-Built with:
-
-* VHDL Hardware Description Language
-* Cyclone II FPGA  (Terasic DE1 Developing Board)
-
-Schematic:
-
-Flowchart:
+##### Flowchart:
