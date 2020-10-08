@@ -2,10 +2,9 @@
 
 ## About the Project
 
-This repository brings up an introductory series of implementations on how to design Embedded Systems when dealing with registers level using C/C++ Programming language. The concepts covered in this series help you to understand the general working of modern microcontrollers, including many of their common peripherals.
+This repository brings up an introductory series of implementations on how to design Logic Systems when dealing with FPGA's using VHDL as hardware description language. The concepts covered in this series help you to understand basics on structural style  behavioral style as well as implementing FSM-based components.
 
-The series presented here is a throwback of a course called EE2920 Embedded Systems, taken by me as international student back in the Fall of 2014 at Milwaukee School of Engineering (MSOE). For this course, the microcontroller used was the ATmega328P, famous to compose Arduino boards such as Arduino Uno and Arduino Nano. However the general concepts covered touch a lot of concepts that are common sense for lots of modern microcontrollers, so the knowledge obtained from this course can be easily used to better understand the internal architecture other devices and build firmware for them. 
-
+The series presented here is a throwback of a course called EE3900B Design of Logic Systems, taken by me as international student back in the Fall of 2014 at Milwaukee School of Engineering (MSOE). For this course, for testing implementations, it was used the DE1 Terasic Development Board which has a Cyclone II FPGA integrated circuit embedded on it. However the general concepts covered touch a lot of concepts that are common sense for lots applications, not only for building CPU components but also to build a wide variety of peripherals that can be integrated on developing digital systems.
 
 ## Table of Contents
 
@@ -29,6 +28,9 @@ Requirements:
 
 Built with:
 
+* VHDL Hardware Description Language
+* Cyclone II FPGA  (Terasic DE1 Developing Board)
+
 Schematic:
 
 Flowchart:
@@ -38,6 +40,9 @@ Flowchart:
 Requirements:
 
 Built with:
+
+* VHDL Hardware Description Language
+* Cyclone II FPGA  (Terasic DE1 Developing Board)
 
 Schematic:
 
@@ -49,6 +54,9 @@ Requirements:
 
 Built with:
 
+* VHDL Hardware Description Language
+* Cyclone II FPGA  (Terasic DE1 Developing Board)
+
 Schematic:
 
 Flowchart:
@@ -58,6 +66,9 @@ Flowchart:
 Requirements:
 
 Built with:
+
+* VHDL Hardware Description Language
+* Cyclone II FPGA  (Terasic DE1 Developing Board)
 
 Schematic:
 
@@ -69,6 +80,9 @@ Requirements:
 
 Built with:
 
+* VHDL Hardware Description Language
+* Cyclone II FPGA  (Terasic DE1 Developing Board)
+
 Schematic:
 
 Flowchart:
@@ -78,6 +92,9 @@ Flowchart:
 Requirements:
 
 Built with:
+
+* VHDL Hardware Description Language
+* Cyclone II FPGA  (Terasic DE1 Developing Board)
 
 Schematic:
 
@@ -89,6 +106,9 @@ Requirements:
 
 Built with:
 
+* VHDL Hardware Description Language
+* Cyclone II FPGA  (Terasic DE1 Developing Board)
+
 Schematic:
 
 Flowchart:
@@ -99,6 +119,9 @@ Requirements:
 
 Built with:
 
+* VHDL Hardware Description Language
+* Cyclone II FPGA  (Terasic DE1 Developing Board)
+
 Schematic:
 
 Flowchart:
@@ -108,6 +131,9 @@ Flowchart:
 Requirements:
 
 Built with:
+
+* VHDL Hardware Description Language
+* Cyclone II FPGA  (Terasic DE1 Developing Board)
 
 Schematic:
 
