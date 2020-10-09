@@ -10,17 +10,17 @@ The series presented here is a throwback of a course called EE3900B Design of Lo
 
 The series requirements and content is shown in detail by the section for each lab. The following content topics present each lab's title to present to you a general idea of what it approached in this serie: 
 
-* Lab 1: Introduction to Structural and Behavioral Styles
-* Lab 2: Design of an Adder-Subtractor Component
-* Lab 3: Introduction to FSM-based Components
-* Lab 4: Design of a Washing Machine Controller
-* Lab 5: Design of Multiplexers and Registers
-* Lab 6: Design of CPU Arithmetic Logic Units
-* Lab 7: Design of CPU Datapaths
-* Lab 8: Design of CPU Control Units
-* Lab 9: Final Project Assembly
+* [Lab 01: Structural and Behavioral Styles](#lab-01-structural-and-behavioral-styles)
+* [Lab 02: Adder-Subtractor](#lab-02-adder-subtractor)
+* [Lab 03: FSM-based Components](#lab-03-fsm-based-components)
+* [Lab 04: Washing Machine Controller](#lab-04-washing-machine-controller)
+* [Lab 05: Multiplexers and Registers](#lab-05-multiplexers-and-registers)
+* [Lab 06: Arithmetic Logic Units](lab-06-arithmetic-logic-units)
+* [Lab 07: Datapaths](#lab-07-datapaths)
+* [Lab 08: Control Units](#lab-08-control-units)
+* [Lab 09: CPU Project Assembly](#lab-09-cpu-project-assembly)
 
-## Lab 1: Introduction to Structural and Behavioral Styles
+## Lab 01: Structural and Behavioral Styles
 
 ##### Requirements: 
 
@@ -31,9 +31,17 @@ The series requirements and content is shown in detail by the section for each l
 
 ##### Schematic:
 
+<p align="center">
+<img src="labs/lab03/schematic.png" width="620">
+</p>
+
 ##### Flowchart:
 
-## Lab 2: Design of an Adder-Subtractor Component
+<p align="center">
+<img src="labs/lab03/flowchart.png" width="400">
+</p>
+
+## Lab 02: Adder-Subtractor
 
 ##### Requirements:
 
@@ -44,9 +52,17 @@ The series requirements and content is shown in detail by the section for each l
 
 ##### Schematic:
 
+<p align="center">
+<img src="labs/lab03/schematic.png" width="620">
+</p>
+
 ##### Flowchart:
 
-## Lab 3: Introduction to FSM-based Components
+<p align="center">
+<img src="labs/lab03/flowchart.png" width="400">
+</p>
+
+## Lab 03: FSM-based Components
 
 ##### Requirements:
 
@@ -57,9 +73,17 @@ The series requirements and content is shown in detail by the section for each l
 
 ##### Schematic:
 
+<p align="center">
+<img src="labs/lab03/schematic.png" width="620">
+</p>
+
 ##### Flowchart:
 
-## Lab 4: Design of a Washing Machine Controller
+<p align="center">
+<img src="labs/lab03/flowchart.png" width="400">
+</p>
+
+## Lab 04: Washing Machine Controller
 
 ##### Requirements:
 
@@ -70,9 +94,17 @@ The series requirements and content is shown in detail by the section for each l
 
 ##### Schematic:
 
+<p align="center">
+<img src="labs/lab03/schematic.png" width="620">
+</p>
+
 ##### Flowchart:
 
-## Lab 5: Design of Multiplexers and Registers
+<p align="center">
+<img src="labs/lab03/flowchart.png" width="400">
+</p>
+
+## Lab 05: Multiplexers and Registers
 
 ##### Requirements:
 
@@ -83,9 +115,17 @@ The series requirements and content is shown in detail by the section for each l
 
 ##### Schematic:
 
+<p align="center">
+<img src="labs/lab03/schematic.png" width="620">
+</p>
+
 ##### Flowchart:
 
-## Lab 6: Design of CPU Arithmetic Logic Units
+<p align="center">
+<img src="labs/lab03/flowchart.png" width="400">
+</p>
+
+## Lab 06: Arithmetic Logic Units
 
 ##### Requirements:
 
@@ -96,35 +136,17 @@ The series requirements and content is shown in detail by the section for each l
 
 ##### Schematic:
 
-##### Flowchart:
-
-## Lab 7: Design of CPU Datapaths
-
-##### Requirements:
-
-##### Built with:
-
-* VHDL Hardware Description Language
-* Cyclone II FPGA  (Terasic DE1 Developing Board)
-
-Schematic:
-
-Flowchart:
-
-## Lab 8: Design of CPU Control Units
-
-##### Requirements:
-
-##### Built with:
-
-* VHDL Hardware Description Language
-* Cyclone II FPGA  (Terasic DE1 Developing Board)
-
-##### Schematic:
+<p align="center">
+<img src="labs/lab03/schematic.png" width="620">
+</p>
 
 ##### Flowchart:
 
-## Lab 9: Final Project Assembly
+<p align="center">
+<img src="labs/lab03/flowchart.png" width="400">
+</p>
+
+## Lab 07: Datapaths
 
 ##### Requirements:
 
@@ -135,4 +157,54 @@ Flowchart:
 
 ##### Schematic:
 
+<p align="center">
+<img src="labs/lab03/schematic.png" width="620">
+</p>
+
 ##### Flowchart:
+
+<p align="center">
+<img src="labs/lab03/flowchart.png" width="400">
+</p>
+
+## Lab 08: Control Units
+
+##### Requirements:
+
+##### Built with:
+
+* VHDL Hardware Description Language
+* Cyclone II FPGA  (Terasic DE1 Developing Board)
+
+##### Schematic:
+
+<p align="center">
+<img src="labs/lab03/schematic.png" width="620">
+</p>
+
+##### Flowchart:
+
+<p align="center">
+<img src="labs/lab03/flowchart.png" width="400">
+</p>
+
+## Lab 09: CPU Project Assembly
+
+##### Requirements:
+
+##### Built with:
+
+* VHDL Hardware Description Language
+* Cyclone II FPGA  (Terasic DE1 Developing Board)
+
+##### Schematic:
+
+<p align="center">
+<img src="labs/lab03/schematic.png" width="620">
+</p>
+
+##### Flowchart:
+
+<p align="center">
+<img src="labs/lab03/flowchart.png" width="400">
+</p>
