@@ -29,16 +29,10 @@ The series requirements and content is shown in detail by the section for each l
 * VHDL Hardware Description Language
 * Cyclone II FPGA  (Terasic DE1 Developing Board)
 
-##### Schematic:
+##### Components:
 
 <p align="center">
-<img src="labs/lab03/schematic.png" width="620">
-</p>
-
-##### Flowchart:
-
-<p align="center">
-<img src="labs/lab03/flowchart.png" width="400">
+<img src="labs/lab01/schematic.png" width="1000">
 </p>
 
 ## Lab 02: Adder-Subtractor
@@ -50,16 +44,10 @@ The series requirements and content is shown in detail by the section for each l
 * VHDL Hardware Description Language
 * Cyclone II FPGA  (Terasic DE1 Developing Board)
 
-##### Schematic:
+##### Components:
 
 <p align="center">
-<img src="labs/lab03/schematic.png" width="620">
-</p>
-
-##### Flowchart:
-
-<p align="center">
-<img src="labs/lab03/flowchart.png" width="400">
+<img src="labs/lab02/schematic.png" width="1000">
 </p>
 
 ## Lab 03: FSM-based Components
@@ -77,12 +65,6 @@ The series requirements and content is shown in detail by the section for each l
 <img src="labs/lab03/schematic.png" width="620">
 </p>
 
-##### Flowchart:
-
-<p align="center">
-<img src="labs/lab03/flowchart.png" width="400">
-</p>
-
 ## Lab 04: Washing Machine Controller
 
 ##### Requirements:
@@ -95,13 +77,7 @@ The series requirements and content is shown in detail by the section for each l
 ##### Schematic:
 
 <p align="center">
-<img src="labs/lab03/schematic.png" width="620">
-</p>
-
-##### Flowchart:
-
-<p align="center">
-<img src="labs/lab03/flowchart.png" width="400">
+<img src="labs/lab04/schematic.png" width="620">
 </p>
 
 ## Lab 05: Multiplexers and Registers
@@ -116,13 +92,7 @@ The series requirements and content is shown in detail by the section for each l
 ##### Schematic:
 
 <p align="center">
-<img src="labs/lab03/schematic.png" width="620">
-</p>
-
-##### Flowchart:
-
-<p align="center">
-<img src="labs/lab03/flowchart.png" width="400">
+<img src="labs/lab05/schematic.png" width="400">
 </p>
 
 ## Lab 06: Arithmetic Logic Units
@@ -137,13 +107,7 @@ The series requirements and content is shown in detail by the section for each l
 ##### Schematic:
 
 <p align="center">
-<img src="labs/lab03/schematic.png" width="620">
-</p>
-
-##### Flowchart:
-
-<p align="center">
-<img src="labs/lab03/flowchart.png" width="400">
+<img src="labs/lab06/schematic.png" width="620">
 </p>
 
 ## Lab 07: Datapaths
@@ -158,13 +122,7 @@ The series requirements and content is shown in detail by the section for each l
 ##### Schematic:
 
 <p align="center">
-<img src="labs/lab03/schematic.png" width="620">
-</p>
-
-##### Flowchart:
-
-<p align="center">
-<img src="labs/lab03/flowchart.png" width="400">
+<img src="labs/lab07/schematic.png" width="1000">
 </p>
 
 ## Lab 08: Control Units
@@ -179,13 +137,7 @@ The series requirements and content is shown in detail by the section for each l
 ##### Schematic:
 
 <p align="center">
-<img src="labs/lab03/schematic.png" width="620">
-</p>
-
-##### Flowchart:
-
-<p align="center">
-<img src="labs/lab03/flowchart.png" width="400">
+<img src="labs/lab08/schematic.png" width="750">
 </p>
 
 ## Lab 09: CPU Project Assembly
@@ -200,11 +152,5 @@ The series requirements and content is shown in detail by the section for each l
 ##### Schematic:
 
 <p align="center">
-<img src="labs/lab03/schematic.png" width="620">
-</p>
-
-##### Flowchart:
-
-<p align="center">
-<img src="labs/lab03/flowchart.png" width="400">
+<img src="labs/lab09/schematic.png" width="620">
 </p>
