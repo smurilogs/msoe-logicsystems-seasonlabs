@@ -1,6 +1,6 @@
 # MSOE | EE3900B Design of Logic Systems Labs
 
-## About the Project
+## About the Labs
 
 This repository brings up an introductory series of implementations on how to design Logic Systems when dealing with FPGA's using VHDL as hardware description language. The concepts covered in this series help you to understand basics on structural style  behavioral style as well as implementing FSM-based components.
 
@@ -24,6 +24,12 @@ The series requirements and content is shown in detail by the section for each l
 
 ##### Requirements: 
 
+This lab introduces two styles of development commonly used to synthetize components using hardware description languages: Structural and Behavioral Styles. This lab doesn't go so far in this since that's just an introduction on the styles but it's going to be covered up by using that styles combined for creating mixed and more complex components in the next labs. 
+
+Structural Style is known for being a technique that implements components by connecting multiple subcomponents. In this lab, it's shown how to implement examples of it combining logic gates into more complex components. The components assembled are shown in the components diagram.
+
+Behavioral Style is known for being a technique that implements components by coding explicitly their behavior
+
 ##### Built with:
 
 * VHDL Hardware Description Language
@@ -36,6 +42,12 @@ The series requirements and content is shown in detail by the section for each l
 </p>
 
 ## Lab 02: Adder-Subtractor
+
+This lab puts in practice concepts covered in the Lab 01 on Structural and Behavioral components to implement an Adder-Subtractor component. The implementation of this component is made in the two styles covered.
+
+For the Structural Style, the Adder-Subtractor is made by implementing each logic gate (AND and OR logic gates) of it to reach components in higher levels of implementation (XOR logic gates and FullAdder components), and then to assembly that into a complet Adder-Subtractor component.
+
+For the Behavioral Syle, the whole thing is made in a much easier way since it's possible to mimic the output behavior of an Adder-Subtractor for each given combination of inputs. So, it's possible to make it just looking at a truth table made for represent the component of interest. 
 
 ##### Requirements:
 
@@ -84,6 +96,12 @@ The series requirements and content is shown in detail by the section for each l
 
 ##### Requirements:
 
+In this Lab, it's shown how to implement two kind of components commonly used to compose digital systems: Multiplexers and Registers. These are examples of asynchronous and synchronous components respectively. 
+
+For introducing multiplexers design, it was implemented a simple example of it by coding a asynchronous component with the function of selecting which group of 4 signals (A or B groups) would be available in the output (called C) each moment. This choosing is made by a single selecting line (called S). Multiplexers can be used to select group of lines available each moment. In CPU's, for examples, it select data to be stored by registers by datapaths from memory controllers, among many many other kinds of applications if can be used for. 
+
+For introducing resisters design, it was implemented a simple example of it by coding a synchronous component. This components has the function of being in contact with a group of 4 signal lines (input group called D) and based on a LOAD signal (called LD) while sync clock is running (called CLK), it stores the state of the inputs into the output lines group (called Q), keeping this output state until the next LOAD signal activation. Registers are used widely in many kinds of applications to store data into a component based on a sync signal for posterior usage, making able to create complex synchronous components composed of combinations of multiple sync and async parts.
+
 ##### Built with:
 
 * VHDL Hardware Description Language
@@ -107,7 +125,7 @@ The series requirements and content is shown in detail by the section for each l
 ##### Schematic:
 
 <p align="center">
-<img src="labs/lab06/schematic.png" width="620">
+<img src="labs/lab06/schematic.png" width="320">
 </p>
 
 ## Lab 07: Datapaths
