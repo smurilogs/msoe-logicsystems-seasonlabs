@@ -1,6 +1,6 @@
 # MSOE | EE3900B Design of Logic Systems Labs
 
-## About the Labs
+## About this Repository
 
 This repository brings up an introductory series of implementations on how to design Logic Systems when dealing with FPGA's using VHDL as hardware description language. The concepts covered in this series help you to understand basics on structural style  behavioral style as well as implementing FSM-based components.
 
