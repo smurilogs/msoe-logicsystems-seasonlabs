@@ -117,6 +117,16 @@ For introducing resisters design, it was implemented a simple example of it by c
 
 ##### Requirements:
 
+This lab shows a general idea of how it could be implemented an Arithimetic Logic Unit (ALU). ALU's are components commonly used in CPU's operate group of signals given as inputs, making possible the selection of the operation that would be applied on these inputs each time. The operations available in each ALU depends on the requirement of it.
+
+For this lab in specific, given two groups of 4-line signals (A and B) and 5-line group as output (called C), it's possible to use the group of signals S as a selector for the following operations: 
+
+<p align="center">
+<img src="labs/lab06/table.png" width="300">
+</p>
+
+Those operations were implemented as example, but other distinct operations could be implemented in that as a custom ALU.
+
 ##### Built with:
 
 * VHDL Hardware Description Language
@@ -131,6 +141,10 @@ For introducing resisters design, it was implemented a simple example of it by c
 ## Lab 07: Datapaths
 
 ##### Requirements:
+
+This lab is about how to create synchronous datapaths for driving data into a routine of operations using a controller. The controller itself is going to be completed in the next lab since the tests oven the datapath made in this lab were performed manually using the mechanical switches in the DE1 Development Board.
+
+The datapah presented here is a simplification of what is made for designing CPU's, where the datapath, driven by external sync signals (CLK for sync and EN for enabling each internal part), guides group of signals as data from registers inputs into a structure able to use them as operators in an ALU. The result is stored in a register output (as the signal DOUT).
 
 ##### Built with:
 
