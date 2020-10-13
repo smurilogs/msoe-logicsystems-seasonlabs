@@ -163,7 +163,7 @@ The datapah presented here is a simplification of what is made for designing CPU
 
 This lab shows how to use the concepts of implementing FSM's in FPGA's to design a Control Unit (CU) for driving full routines in the datapath created in the previous lab to perform an operation in a synchronous way. 
 
-After the the synchronous activaion of a START signal (ST input), chained by a sync signal *(CKL signal), it starts to perform the steps that are going to take care of the routine processed. It basically makes the datapath designed to pick up data from a group of signals as inputs (DA and DB groups) and then operate them in order to get a result as the output. It shares a group of signals to choose which is going to be the operation executed by the datapath in the routine (OP group of signals). When finally the routine is complete and the result of the chosen operation is already available (DOUT output), the Control Unit flags up a signal for a done indication (DN output).
+After the the synchronous activaion of a START signal (ST input), chained by a sync signal (CKL signal), it starts to perform the steps that are going to take care of the routine processed. It basically makes the datapath designed to pick up data from a group of signals as inputs (DA and DB groups) and then operate them in order to get a result as the output. It shares a group of signals to choose which is going to be the operation executed by the datapath in the routine (OP group of signals). When finally the routine is complete and the result of the chosen operation is already available (DOUT output), the Control Unit flags up a signal for a done indication (DN output).
 
 ##### Built with:
 
