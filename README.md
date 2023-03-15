@@ -43,13 +43,13 @@ Behavioral Style is known for being a technique that implements components by co
 
 ## Lab 02: Adder-Subtractor
 
+##### Requirements:
+
 This lab puts in practice concepts covered in the Lab 01 on Structural and Behavioral components to implement an Adder-Subtractor component. The implementation of this component is made in the two styles covered.
 
 For the Structural Style, the Adder-Subtractor is made by implementing each logic gate (AND and OR logic gates) of it to reach components in higher levels of implementation (XOR logic gates and FullAdder components), and then to assembly that into a complet Adder-Subtractor component.
 
 For the Behavioral Syle, the whole thing is made in a much easier way since it's possible to mimic the output behavior of an Adder-Subtractor for each given combination of inputs. So, it's possible to make it just looking at a truth table made for represent the component of interest. 
-
-##### Requirements:
 
 ##### Built with:
 
